@@ -1,7 +1,7 @@
 const translations = {
   en: {
     title: "Election Charts",
-    subtitle: "Official {year} Federal Election Results",
+    subtitle: "{year} Canada Federal Election Results",
     voteTitle: "National Popular Vote",
     voteSubtitle: "Final vote distribution (%)",
     voteLabel: "Popular Vote",
@@ -18,7 +18,7 @@ const translations = {
   },
   fr: {
     title: "Graphiques Électoraux",
-    subtitle: "Résultats officiels des élections fédérales de {year}",
+    subtitle: "Résultats des élections fédérales du Canada {year}",
     voteTitle: "Vote populaire national",
     voteSubtitle: "Répartition finale des votes (%)",
     voteLabel: "Vote populaire",
