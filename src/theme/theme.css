@@ -1,0 +1,21 @@
+:root {
+  --bg: #0f0f0f;
+  --card-bg: #1e1e1e;
+  --text: #ffffff;
+  --text-muted: #b0b0b0;
+  --accent: #e50914;
+  --grey: #333333;
+  --grid-stroke: rgba(255, 255, 255, 0.1);
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.card-dark {
+  background-color: var(--card-bg);
+  color: var(--text);
+}
